@@ -44,6 +44,7 @@ A hands-on cloud security project focused on configuring and securing **Sophos X
 
 ### 📜 Certifications  
 🎓 **AWS Certified Solutions Architect – Associate**  
+🎓 **CompTIA A+** 
 🎓 **Google IT Support Professional**  
 🎓 **ISC2 Certified in Cybersecurity**  
 🎓 **Sophos Cloud Security (XG Firewall, Intercept X)**  
