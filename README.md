@@ -13,7 +13,7 @@
 ✅ Network Administration & Troubleshooting  
 ✅ System Maintenance & Documentation  
 ✅ Helpdesk & Client Support  
-✅ Cybersecurity Fundamentals (Vulnerability Assessment, Penetration Testing)  
+✅ Cybersecurity (Penetration Testing, Sophos, Vulnerability Assessment)  
 ✅ Windows & Linux System Administration  
 ✅ Cloud Services (AWS, Sophos)  
 
