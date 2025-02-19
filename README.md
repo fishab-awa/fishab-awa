@@ -9,13 +9,13 @@
 ---
 
 ### 🛠️ Skills & Expertise  
-✅ IT Support (Tier 1 & Tier 2)  
+✅ IT Support
+✅ Cybersecurity (Penetration Testing, Sophos, Vulnerability Assessment) 
+✅ Cloud Services (AWS, Sophos) 
 ✅ Network Administration & Troubleshooting  
-✅ System Maintenance & Documentation  
-✅ Helpdesk & Client Support  
-✅ Cybersecurity (Penetration Testing, Sophos, Vulnerability Assessment)  
+✅ System Maintenance & Documentation 
 ✅ Windows & Linux System Administration  
-✅ Cloud Services (AWS, Sophos)  
+ 
 
 ---
 
